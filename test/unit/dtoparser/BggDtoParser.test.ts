@@ -34,6 +34,22 @@ describe('BggDtoParsers', () => {
 
             expect(validationResult).toStrictEqual([])
         });
+        it('should parse Thing dto for rpgitem when xml response is valid', async () => {
+
+            const xmlResponse: string = TextResponseByEndpoint['https://www.boardgamegeek.com/xmlapi2/thing?id=174620&comments=1&marketplace=1&pagesize=10&ratingcomments=1&stats=1&videos=1&type=rpgitem&versions=1'];
+
+            const jsonData = await xmlToJsonParser.parseResponse(xmlResponse);
+
+            const dtoParser: BggThingDtoParser = new BggThingDtoParser();
+
+            const dtoList: BggThingDto[] = await dtoParser.jsonToDto(jsonData);
+
+            const dto: BggThingDto = dtoList[0]
+
+            const validationResult = ValidatorTraverse(dto, reflectionProperties, reflectionPropertiesExcludable)
+
+            expect(validationResult).toStrictEqual([])
+        });
         it('should parse Thing dto and intercept expected existing properties that are missing when xml response is valid', async () => {
 
             const xmlResponse: string = TextResponseByEndpoint['https://www.boardgamegeek.com/xmlapi2/thing?id=174430&comments=1&marketplace=1&pagesize=10&ratingcomments=1&stats=1&videos=1&type=boardgame&versions=1&withmissings'];

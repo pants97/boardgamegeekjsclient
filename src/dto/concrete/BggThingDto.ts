@@ -85,6 +85,11 @@ export class BggThingDto implements IBggDto {
     minage!: number;
 
     @JsonProperty()
+    @JsonClassType({ type: () => [String] })
+    @JsonAlias({ values: ["@_value"] })
+    seriescode!: string;
+
+    @JsonProperty()
     @JsonClassType({ type: () => [Array, [BggLinkDto]] })
     @JsonManagedReference()
     @JsonAlias({ values: ["link"] })

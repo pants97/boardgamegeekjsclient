@@ -4,6 +4,7 @@ import path from 'path';
 export const TextResponseByEndpoint: Record<string, string> =
 {
     'https://www.boardgamegeek.com/xmlapi2/thing?id=174430&comments=1&marketplace=1&pagesize=10&ratingcomments=1&stats=1&videos=1&type=boardgame&versions=1': fs.readFileSync(path.join(__dirname, '..', '__fixtures__/response_thing_174430_withallrequestoptions.xml'), 'utf-8'),
+    'https://www.boardgamegeek.com/xmlapi2/thing?id=174620&comments=1&marketplace=1&pagesize=10&ratingcomments=1&stats=1&videos=1&type=rpgitem&versions=1': fs.readFileSync(path.join(__dirname, '..', '__fixtures__/response_thing_174620_rpgitem_withallrequestoptions.xml'), 'utf-8'),
     'https://www.boardgamegeek.com/xmlapi2/thing?id=174430&comments=1&marketplace=1&pagesize=10&ratingcomments=1&stats=1&videos=1&type=boardgame&versions=1&withmissings': fs.readFileSync(path.join(__dirname, '..', '__fixtures__/response_thing_174430_withallrequestoptions_withmissings.xml'), 'utf-8'),
     'https://www.boardgamegeek.com/xmlapi2/collection?username=mattiabanned': fs.readFileSync(path.join(__dirname, '..', '__fixtures__/response_collection.xml'), 'utf-8'),
     'https://www.boardgamegeek.com/xmlapi2/plays?username=mattiabanned': fs.readFileSync(path.join(__dirname, '..', '__fixtures__/response_play.xml'), 'utf-8'),

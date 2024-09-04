@@ -1,0 +1,452 @@
+HTTP/2 200
+server: nginx
+access-control-allow-origin: *
+content-encoding: gzip
+via: 1.1 google
+date: Wed, 04 Sep 2024 11:36:05 GMT
+cache-control: s-maxage=30, max-age=3600
+etag: W/"a4a5e5233eb512b8a70354968a88d73b"
+content-type: text/xml; charset="UTF-8"
+content-length: 10476
+age: 5
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+X-Firefox-Spdy: h2
+
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="rpgitem" id="174620">
+    <thumbnail>https://cf.geekdo-images.com/ebVYNsEsQTcKq84453Cchw__thumb/img/LBqdmg9G4uuiwjJ64qc_aDammi0=/fit-in/200x150/filters:strip_icc()/pic2442449.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/ebVYNsEsQTcKq84453Cchw__original/img/EVuk4WbEqJ3VZy_a30f2RKrRLgY=/0x0/filters:format(jpeg)/pic2442449.jpg</image>
+    <name type="primary" sortindex="1" value="Blades in the Dark"/>
+    <name type="alternate" sortindex="1" value="Клинки во тьме"/>
+    <link type="rpg" id="26952" value="Blades in the Dark"/>
+    <description>Publisher Blurb&amp;#10;&amp;#10;&amp;quot;The streets of Duskwall are haunted. By vengeful ghosts and cruel demons. By the masked spirit wardens and their lightning-hooks. By sharp-eyed inspectors and their gossiping
+      crows. By the alluring hawkers of vice and pleasure. By thieves and killers and scoundrels like you &amp;mdash; the Blades in the Dark.&amp;#10;&amp;#10;The noble elite grow ever richer from the profits of their leviathan-hunting
+      fleets and electroplasm refineries. The Bluecoats of the constabulary crack skulls and line their pockets with graft. The powerful crime syndicates leech coin from every business, brothel, drug den, and gambling house. And then
+      there's your crew of scoundrels: all the way down at the bottom rung. Can you make it to the top? What are you willing to do to get there? There's only one way to find out...&amp;quot;&amp;#10;&amp;#10;Blades in the Dark is a tabletop
+      role-playing game about a gang of criminals seeking their fortunes on the haunted streets of Duskwall. There are heists, chases, occult mysteries, dangerous bargains, bloody skirmishes, and, above all, riches to be had if you're bold
+      enough.&amp;#10;&amp;#10;You play to find out if your fledgling crew can thrive amidst the threats of rival gangs, powerful noble families, malicious ghosts, the Bluecoats of the city watch, and the siren song of your scoundrel&amp;rsquo;s
+      own vices.&amp;#10;&amp;#10;
+    </description>
+    <yearpublished value="2016"/>
+    <link type="rpggenre" id="945" value="Crime"/>
+    <link type="rpggenre" id="156" value="Fantasy (Low Fantasy)"/>
+    <link type="rpggenre" id="951" value="Occult"/>
+    <link type="rpggenre" id="166" value="Steampunk"/>
+    <link type="rpgsetting" id="71986" value="Doskvol"/>
+    <seriescode value=""/>
+    <link type="rpgcategory" id="2083" value="Core Rules (min needed to play)"/>
+    <link type="rpgmechanic" id="2112" value="Dice (Primarily d6)"/>
+    <link type="rpgmechanic" id="2138" value="Progression Tree (Skills, professions, magic abilities, etc.)"/>
+    <link type="rpgmechanic" id="2094" value="Skill Based (buy or gain skills)"/>
+    <link type="rpgpublisher" id="35738" value="500 Nuances de Geek"/>
+    <link type="rpgpublisher" id="9656" value="Evil Hat Productions"/>
+    <link type="rpgpublisher" id="45748" value="Grumpy Bear"/>
+    <link type="rpgpublisher" id="51992" value="Kalandhorizont Könyvek"/>
+    <link type="rpgpublisher" id="7306" value="Nosolorol Ediciones"/>
+    <link type="rpgpublisher" id="10347" value="One Seven Design"/>
+    <link type="rpgpublisher" id="50688" value="Stinger Press"/>
+    <link type="rpgpublisher" id="25246" value="Studio 101"/>
+    <link type="rpgdesigner" id="69783" value="Stras Acimovic"/>
+    <link type="rpgdesigner" id="92504" value="Vandel J. Arden"/>
+    <link type="rpgdesigner" id="102583" value="Duamn Figueroa"/>
+    <link type="rpgdesigner" id="11436" value="Dylan Green"/>
+    <link type="rpgdesigner" id="13984" value="John Harper"/>
+    <link type="rpgdesigner" id="65207" value="Andrew Shields"/>
+    <link type="rpgartist" id="13984" value="John Harper"/>
+    <link type="rpgproducer" id="13984" value="John Harper"/>
+    <link type="rpgproducer" id="45245" value="Sean Nittner"/>
+    <link type="rpgproducer" id="68875" value="Karen Twelves"/>
+    <videos total="1">
+      <video id="274655" title="Here&#039;s the best heist RPG ever... in about 11 minutes: Blades in the Dark - Review &amp; Mechanics" category="review" language="English" link="http://www.youtube.com/watch?v=-paftFbNEUw"
+             username="Steve Dubya" userid="265918" postdate="2020-07-28T14:34:00-05:00"/>
+    </videos>
+    <versions>
+      <item type="rpgitemversion" id="618683">
+        <thumbnail>https://cf.geekdo-images.com/yVIIzWeWnkOQePkRXm5d3Q__thumb/img/0VAIhYvfeiRIeD6eG-7TzYA4L6Q=/fit-in/200x150/filters:strip_icc()/pic6903536.jpg</thumbnail>
+        <image>https://cf.geekdo-images.com/yVIIzWeWnkOQePkRXm5d3Q__original/img/ImC4HBQrtLP_5vUG9Hz_8GJP89M=/0x0/filters:format(jpeg)/pic6903536.jpg</image>
+        <name type="primary" sortindex="1" value="Blades in the Dark"/>
+        <yearpublished value="2019"/>
+        <format value="hardcover"/>
+        <link type="language" id="2203" value="Spanish"/>
+        <productcode value=""/>
+        <pagecount value="324"/>
+        <isbn10 value=""/>
+        <isbn13 value="978-8417379940"/>
+        <width value="6"/>
+        <height value="9"/>
+        <weight value="0"/>
+        <description>Publisher Blurb:&amp;#10;&amp;#10;Blades in the Dark es un juego de rol sobre bandas de audaces criminales que buscan la forma de prosperar en las opresivas calles de una ciudad industrial de fantas&amp;iacute;a. Aqu&amp;iacute;
+          hay robos, persecuciones, misterios ocultistas, tratos peligrosos, escaramuzas sangrientas y, sobre todo, las riquezas que puedas conseguir&amp;hellip; si eres lo suficientemente osado como para hacerte con ellas.&amp;#10;&amp;#10;Deber&amp;aacute;s
+          superar, junto a tu incipiente banda, las amenazas de tus rivales, de poderosas familias nobles, fantasmas vengativos, los casacas azules de la guardia de la ciudad y tus propios vicios criminales, que te incitan como el canto de
+          una sirena. &amp;iquest;Conseguir&amp;aacute;s ser alguien poderoso en el mundo criminal? &amp;iquest;Qu&amp;eacute; est&amp;aacute;s dispuesto a hacer para llegar a la cima?&amp;#10;&amp;#10;En este libro podr&amp;aacute;s
+          encontrar:&amp;#10;&amp;#10;&amp;#10; Reglas para crear un personaje criminal a partir de los siguientes arquetipos: el Acechador, la Ara&amp;ntilde;a, la M&amp;aacute;scara, el Sabueso, la Sanguijuela, el Sajador y el Susurro.&amp;#10;
+          Reglas para crear una banda a partir de diferentes tipos definidos, como Asesinos, Bravos, Buhoneros, Contrabandistas, Secta o Sombras.&amp;#10; Una mec&amp;aacute;nica b&amp;aacute;sica s&amp;oacute;lida que garantiza la
+          preeminencia de la narrativa: la actitud que adopta un personaje al realizar una acci&amp;oacute;n (desesperada, arriesgada o controlada) importa tanto como las puntuaciones que tiene en sus habilidades.&amp;#10; Una mec&amp;aacute;nica
+          &amp;aacute;gil para planificar operaciones criminales y quitarse de encima la pesadez habitual de hacer planes en la mesa de juego.&amp;#10; Reglas para experimentos alqu&amp;iacute;micos, artefactos y misteriosos poderes
+          ocultistas, incluyendo reglas para jugar con fantasmas y otros seres extra&amp;ntilde;os.&amp;#10; Una gu&amp;iacute;a de ambientaci&amp;oacute;n para la opresiva ciudad de Doskvol, con todos los mapas, facciones, PNJ,
+          maquinaciones y oportunidades que necesitas para jugar una partida de rol emocionante con gran libertad de movimientos.&amp;#10;&amp;#10;&amp;#10;
+        </description>
+      </item>
+      <item type="rpgitemversion" id="706662">
+        <name type="primary" sortindex="1" value="French PDF"/>
+        <yearpublished value="2024"/>
+        <format value="electronic"/>
+        <link type="language" id="2187" value="French"/>
+        <productcode value=""/>
+        <pagecount value="336"/>
+        <isbn10 value=""/>
+        <isbn13 value="979-1090692817"/>
+        <width value="5.8"/>
+        <height value="8.3"/>
+        <weight value="0"/>
+        <description>From publisher blurb:&amp;#10;&amp;#10;Blades in the Dark est un jeu de r&amp;ocirc;le qui met en sc&amp;egrave;ne un gang de criminels en qu&amp;ecirc;te de fortune dans les rues hant&amp;eacute;es de Duskvol. Vous y
+          trouverez braquages, poursuites, myst&amp;egrave;res occultes, marchandages dangereux, escarmouches sanglantes et, surtout, surtout, des richesses &amp;agrave; prendre si vous &amp;ecirc;tes assez audacieux pour cela.&amp;#10;&amp;#10;Vous
+          jouez &amp;agrave; ce jeu pour savoir si votre bande fraichement constitu&amp;eacute;e peut prosp&amp;eacute;rer parmi les gangs rivaux, les puissantes familles nobles, les fant&amp;ocirc;mes malveillants, sans oublier les &amp;quot;manteaux
+          bleus&amp;quot; de la ville...et les vices de votre propre personnage.&amp;#10;&amp;#10;Le gameplay se concentre sur des activit&amp;eacute;s criminelles appel&amp;eacute;es Scores. Une session de jeu consiste habituellement en 1
+          ou 2 Scores, chacune suivie d'une r&amp;eacute;cup&amp;eacute;ration, de projets personnels et d'avancement pour les canailles et leur bande.&amp;#10;&amp;#10;Dans Blades in the Dark, votre bande (crew) re&amp;ccedil;oit sa propre
+          &amp;quot;fiche de personnage&amp;quot; (choisie dans diff&amp;eacute;rentes classes, comme Culte, Voleurs ou Contrebandiers), gagne des XP, et augmente de niveau en m&amp;ecirc;me temps que les personnages. Au fur et &amp;agrave;
+          mesure que vous faites avancer la bande, vous d&amp;eacute;bloquez de nouvelles options et capacit&amp;eacute;s pour les canailles et gravissez les &amp;eacute;chelons des factions dans la ville.&amp;#10;&amp;#10;L'&amp;eacute;quipe
+          est un perso comme les autres&amp;#10;&amp;#10;Le jeu dispose d'un m&amp;eacute;canisme de r&amp;eacute;solution de base robuste qui demande au groupe de caract&amp;eacute;riser les actions comme d&amp;eacute;sesp&amp;eacute;r&amp;eacute;es,
+          risqu&amp;eacute;es ou contr&amp;ocirc;l&amp;eacute;es. Chaque choix offre une gamme de r&amp;eacute;sultats multiples, au-del&amp;agrave; du simple succ&amp;egrave;s ou de l'&amp;eacute;chec. Pour mettre en valeur la nature des
+          personnages, les joueurs peuvent accepter un march&amp;eacute; avec le diable (un d&amp;eacute; bonus avec des conditions...) pour augmenter leurs chances.&amp;#10;&amp;#10;Un bon syst&amp;egrave;me pour simuler le travail d'&amp;eacute;quipe
+          est essentiel pour qu'un jeu sur un &amp;eacute;quipage de canailles fonctionne. Blades in the Dark met en avant une m&amp;eacute;canique de travail d'&amp;eacute;quipe fun, cin&amp;eacute;matique et intuitive qui fait passer
+          l'action d'un personnage &amp;agrave; l'autre au fur et &amp;agrave; mesure qu'il se dirige vers l'objectif avec le soutien de ses &amp;eacute;quipiers.&amp;#10;&amp;#10;Faire des plans de pro sans &amp;ecirc;tre un pro&amp;#10;&amp;#10;De
+          nombreuses s&amp;eacute;ances de JDR grippent lorsque la planification des joueurs/personnages est n&amp;eacute;cessaire pour entreprendre un&amp;quot; coup&amp;quot; complexe. Le groupe finit par discuter des options pendant des
+          heures -- parler du jeu plut&amp;ocirc;t que de jouer au jeu. Blades in the Dark &amp;eacute;vite ce travers gr&amp;acirc;ce &amp;agrave; un syst&amp;egrave;me de planification qui prend moins d'une minute: vous prenez quelques d&amp;eacute;cisions
+          simples et vous y allez. De plus, les joueurs peuvent utiliser leur bonus de travail d'&amp;eacute;quipe pour activer un plan d'urgence, ce qui leur permet de passer &amp;agrave; une sc&amp;egrave;ne de flash-back et de lancer une
+          action de mise en place que leur personnage a effectu&amp;eacute;e dans le pass&amp;eacute;.&amp;#10;&amp;#10;L'univers&amp;#10;&amp;#10;C'est durant l'ann&amp;eacute;e 847 de l'Imperium qui les &amp;icirc;les bris&amp;eacute;es
+          par le Grand Cataclysme furent unies sous une seule r&amp;egrave;gle - gloire &amp;agrave; Sa Majest&amp;eacute; l'Empereur Immortel.&amp;#10;&amp;#10;Les esprits inquiets des morts, libres de parcourir le monde depuis que les
+          portes de la mort furent bris&amp;eacute;es, fondirent alors sur tout ce qui vit dans les terres mortes entre les villes.&amp;#10;&amp;#10;Le port de Duskvol comme chaque ville-forteresse de l'Imperium, est entour&amp;eacute; de
+          tours d'&amp;eacute;clairs cr&amp;eacute;pitants cr&amp;eacute;ant une barri&amp;egrave;re &amp;eacute;lectrique que les esprits ne peuvent franchir. Selon la loi, les gardiens doivent incin&amp;eacute;rer tous les cadavres avec
+          un &amp;eacute;lectroplasme pour emp&amp;ecirc;cher les esprits de quitter leur corps. Cependant, les riches citoyens, les h&amp;eacute;r&amp;eacute;tiques des cultes des esprits et les criminels de tout poil font souvent en sorte
+          qu'un esprit &amp;eacute;chappe &amp;agrave; la destruction de l'incin&amp;eacute;rateur. Les esprits hors la loi et les essences ill&amp;eacute;gales qui en sont d&amp;eacute;riv&amp;eacute;es constituent alors une riche
+          opportunit&amp;eacute; de commerce pour le march&amp;eacute; noir.&amp;#10;&amp;#10;Duskvol est le port d'attache des gigantesques navires &amp;agrave; vapeur des chasseurs de L&amp;eacute;viathan. Le sang de ces d&amp;eacute;mons
+          massifs est le catalyseur des huiles plasmiques raffin&amp;eacute;es qui alimentent la ville.&amp;#10;&amp;#10;Duskvol est un lieu de richesse et de pauvret&amp;eacute;, de science et de magie, d'ambition et de d&amp;eacute;cadence.&amp;#10;&amp;#10;
+        </description>
+      </item>
+      <item type="rpgitemversion" id="643087">
+        <thumbnail>https://cf.geekdo-images.com/ebVYNsEsQTcKq84453Cchw__thumb/img/LBqdmg9G4uuiwjJ64qc_aDammi0=/fit-in/200x150/filters:strip_icc()/pic2442449.jpg</thumbnail>
+        <image>https://cf.geekdo-images.com/ebVYNsEsQTcKq84453Cchw__original/img/EVuk4WbEqJ3VZy_a30f2RKrRLgY=/0x0/filters:format(jpeg)/pic2442449.jpg</image>
+        <name type="primary" sortindex="1" value="Hardcover"/>
+        <yearpublished value="2017"/>
+        <format value="hardcover"/>
+        <link type="language" id="2184" value="English"/>
+        <productcode value=""/>
+        <pagecount value="327"/>
+        <isbn10 value=""/>
+        <isbn13 value="978-1613171325"/>
+        <width value="6"/>
+        <height value="9"/>
+        <weight value="0"/>
+        <description>From the back of the book:&amp;#10;&amp;#10;Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are
+          heists, chases, occult mysteries, dangerous bargains, bloody skirmishes, and, above all, riches to be had &amp;mdash; if you're bold enough to seize them.&amp;#10;&amp;#10;You and your fledgling crew must thrive amidst the threats
+          of rival gangs, powerful noble families, vengeful ghosts, the Bluecoats of the city watch, and the siren song of your scoundrel's own vices. Will you rise to power in the criminal underworld? What are you willing to do to get to
+          the top?&amp;#10;&amp;#10;
+        </description>
+      </item>
+      <item type="rpgitemversion" id="511208">
+        <name type="primary" sortindex="1" value="Italian Hardcover Version"/>
+        <yearpublished value="2020"/>
+        <format value="hardcover"/>
+        <link type="language" id="2193" value="Italian"/>
+        <productcode value="GBS001"/>
+        <pagecount value="320"/>
+        <isbn10 value=""/>
+        <isbn13 value="9788894514506"/>
+        <width value="6"/>
+        <height value="9"/>
+        <weight value="1.89598"/>
+        <description>User summary:&amp;#10;&amp;#10;Italian hardcover version.&amp;#10;&amp;#10;</description>
+      </item>
+      <item type="rpgitemversion" id="510462">
+        <name type="primary" sortindex="1" value="Italian PDF Version"/>
+        <yearpublished value="2020"/>
+        <format value="electronic"/>
+        <link type="language" id="2193" value="Italian"/>
+        <productcode value=""/>
+        <pagecount value="328"/>
+        <isbn10 value=""/>
+        <isbn13 value=""/>
+        <width value="6"/>
+        <height value="9"/>
+        <weight value="0"/>
+        <description>User summary:&amp;#10;&amp;#10;PDF of the italian edition.&amp;#10;&amp;#10;</description>
+      </item>
+      <item type="rpgitemversion" id="575056">
+        <thumbnail>https://cf.geekdo-images.com/9W0iZBy6ywBGo_7PG-WHGg__thumb/img/fYifr9BL1JGCdKjMj1jmpru9780=/fit-in/200x150/filters:strip_icc()/pic6332251.jpg</thumbnail>
+        <image>https://cf.geekdo-images.com/9W0iZBy6ywBGo_7PG-WHGg__original/img/OMFNiQw1iEA3QTVqahEWXhId0ZM=/0x0/filters:format(jpeg)/pic6332251.jpg</image>
+        <name type="primary" sortindex="1" value="Kések az éjben (Hungarian Version)"/>
+        <yearpublished value="2019"/>
+        <format value="softcover"/>
+        <link type="language" id="2191" value="Hungarian"/>
+        <productcode value=""/>
+        <pagecount value="326"/>
+        <isbn10 value=""/>
+        <isbn13 value="978-6155994043"/>
+        <width value="6"/>
+        <height value="9"/>
+        <weight value="0"/>
+        <description>Hungarian version published under the brand Kalandhorizont K&amp;ouml;nyvek.&amp;#10;&amp;#10;</description>
+      </item>
+      <item type="rpgitemversion" id="630824">
+        <name type="primary" sortindex="1" value="Ostrza w Mroku"/>
+        <yearpublished value="2020"/>
+        <format value="hardcover"/>
+        <link type="language" id="2199" value="Polish"/>
+        <productcode value=""/>
+        <pagecount value="319"/>
+        <isbn10 value=""/>
+        <isbn13 value=""/>
+        <width value="5.8"/>
+        <height value="8.3"/>
+        <weight value="0"/>
+        <description>Ostrza w mroku to gra fabularna o szajce &amp;#197;&amp;#155;mia&amp;#197;&amp;#130;ych &amp;#197;&amp;#130;otr&amp;oacute;w szukaj&amp;#196;&amp;#133;cych szcz&amp;#196;&amp;#153;&amp;#197;&amp;#155;cia na nawiedzonych
+          ulicach fantastyczno-industrialnego miasta. Znajdziecie w niej skoki, po&amp;#197;&amp;#155;cigi, okultystyczne tajemnice, niebezpieczne uk&amp;#197;&amp;#130;ady, krwawe potyczki oraz nieprzebrane bogactwa &amp;ndash; je&amp;#197;&amp;#155;li
+          tylko macie w sobie do&amp;#197;&amp;#155;&amp;#196;&amp;#135; odwagi, by po nie si&amp;#196;&amp;#153;gn&amp;#196;&amp;#133;&amp;#196;&amp;#135;.&amp;#10;&amp;#10;
+        </description>
+      </item>
+      <item type="rpgitemversion" id="637813">
+        <name type="primary" sortindex="1" value="Ostrza w mroku"/>
+        <yearpublished value="2021"/>
+        <format value="electronic"/>
+        <link type="language" id="2199" value="Polish"/>
+        <productcode value=""/>
+        <pagecount value="336"/>
+        <isbn10 value=""/>
+        <isbn13 value=""/>
+        <width value="0"/>
+        <height value="0"/>
+        <weight value="0"/>
+        <description>Ostrza w mroku to gra fabularna o szajce &amp;#197;&amp;#155;mia&amp;#197;&amp;#130;ych &amp;#197;&amp;#130;otr&amp;oacute;w szukaj&amp;#196;&amp;#133;cych szcz&amp;#196;&amp;#153;&amp;#197;&amp;#155;cia na nawiedzonych
+          ulicach fantastyczno-industrialnego miasta. Znajdziecie w niej skoki, po&amp;#197;&amp;#155;cigi, okultystyczne tajemnice, niebezpieczne uk&amp;#197;&amp;#130;ady, krwawe potyczki oraz nieprzebrane bogactwa - je&amp;#197;&amp;#155;li
+          tylko macie w sobie do&amp;#197;&amp;#155;&amp;#196;&amp;#135; odwagi, by po nie si&amp;#196;&amp;#153;gn&amp;#196;&amp;#133;&amp;#196;&amp;#135;.&amp;#10;&amp;#10;Wasza nowo powsta&amp;#197;&amp;#130;a szajka musi przetrwa&amp;#196;&amp;#135;
+          po&amp;#197;&amp;#155;r&amp;oacute;d innych gang&amp;oacute;w, pot&amp;#196;&amp;#153;&amp;#197;&amp;#188;nych rod&amp;oacute;w szlacheckich, &amp;#197;&amp;#188;&amp;#196;&amp;#133;dnych zemsty duch&amp;oacute;w i B&amp;#197;&amp;#130;&amp;#196;&amp;#153;kitnych
+          P&amp;#197;&amp;#130;aszczy ze Stra&amp;#197;&amp;#188;y Miejskiej oraz stawi&amp;#196;&amp;#135; czo&amp;#197;&amp;#130;a kusz&amp;#196;&amp;#133;cej, lecz zepsutej pie&amp;#197;&amp;#155;ni w&amp;#197;&amp;#130;asnych dusz. Czy
+          zdob&amp;#196;&amp;#153;dziecie wp&amp;#197;&amp;#130;ywy w p&amp;oacute;&amp;#197;&amp;#130;&amp;#197;&amp;#155;wiatku? Ile b&amp;#196;&amp;#153;dziecie gotowi po&amp;#197;&amp;#155;wi&amp;#196;&amp;#153;ci&amp;#196;&amp;#135;,
+          aby wspi&amp;#196;&amp;#133;&amp;#196;&amp;#135; si&amp;#196;&amp;#153; na sam szczyt?&amp;#10;&amp;#10;W podr&amp;#196;&amp;#153;czniku znajdziecie:&amp;#10;&amp;#10;zasady tworzenia barwnych postaci &amp;#197;&amp;#130;otr&amp;oacute;w:
+          Czyhaczy, Ogar&amp;oacute;w, Paj&amp;#196;&amp;#133;k&amp;oacute;w, Pijawek, Siepaczy, Szeptuch&amp;oacute;w, &amp;#197;&amp;#154;ciemniaczy&amp;#10;r&amp;oacute;&amp;#197;&amp;#188;norodne &amp;#197;&amp;#130;otrowskie szajki:
+          Cieni, Diler&amp;oacute;w, Kultyst&amp;oacute;w, Oprych&amp;oacute;w, Przemytnik&amp;oacute;w, Zab&amp;oacute;jc&amp;oacute;w&amp;#10;solidn&amp;#196;&amp;#133; mechanik&amp;#196;&amp;#153;, kt&amp;oacute;ra stawia fikcj&amp;#196;&amp;#153;
+          na pierwszym miejscu: sytuacja, w jakiej znajduje si&amp;#196;&amp;#153; posta&amp;#196;&amp;#135;, jest r&amp;oacute;wnie wa&amp;#197;&amp;#188;na, co umiej&amp;#196;&amp;#153;tno&amp;#197;&amp;#155;ci bohatera&amp;#10;szybkie
+          zasady planowania kryminalnych przedsi&amp;#196;&amp;#153;wzi&amp;#196;&amp;#153;&amp;#196;&amp;#135;, pozwalaj&amp;#196;&amp;#133;ce pomin&amp;#196;&amp;#133;&amp;#196;&amp;#135; &amp;#197;&amp;#188;mudne ustalanie kolejnych
+          posuni&amp;#196;&amp;#153;&amp;#196;&amp;#135; krok po kroku&amp;#10;zasady opisuj&amp;#196;&amp;#133;ce eksperymenty alchemiczne, majsterkowanie przy gad&amp;#197;&amp;#188;etach oraz tajemne moce okultystyczne &amp;ndash; w tym
+          regu&amp;#197;&amp;#130;y umo&amp;#197;&amp;#188;liwiaj&amp;#196;&amp;#133;ce granie duchami i jeszcze dziwniejszymi istotami&amp;#10;przewodnik po nawiedzonym Zmierzchomurzu wraz z mapami, opisami frakcji i bohater&amp;oacute;w
+          niezale&amp;#197;&amp;#188;nych, szansami i zagro&amp;#197;&amp;#188;eniami, za kt&amp;oacute;rych spraw&amp;#196;&amp;#133; od razu zanurzycie si&amp;#196;&amp;#153; w otwartym, reaguj&amp;#196;&amp;#133;cym na wasze dzia&amp;#197;&amp;#130;ania
+          &amp;#197;&amp;#155;wiecie gry.&amp;#10;&amp;#10;
+        </description>
+      </item>
+      <item type="rpgitemversion" id="268551">
+        <thumbnail>https://cf.geekdo-images.com/bvRQLlqz9xfgy175WLo_Pw__thumb/img/2ymjzB-7Fx98RDR3rnOIMis3P4s=/fit-in/200x150/filters:strip_icc()/pic4166517.png</thumbnail>
+        <image>https://cf.geekdo-images.com/bvRQLlqz9xfgy175WLo_Pw__original/img/sdFI2SBx5qN47jt-OkWixRoUJTs=/0x0/filters:format(png)/pic4166517.png</image>
+        <name type="primary" sortindex="1" value="PDF version"/>
+        <yearpublished value="2015"/>
+        <format value="electronic"/>
+        <link type="language" id="2184" value="English"/>
+        <productcode value="EHP0030"/>
+        <pagecount value="0"/>
+        <isbn10 value=""/>
+        <isbn13 value=""/>
+        <width value="6"/>
+        <height value="9"/>
+        <weight value="0"/>
+        <description></description>
+      </item>
+      <item type="rpgitemversion" id="631827">
+        <thumbnail>https://cf.geekdo-images.com/9W0iZBy6ywBGo_7PG-WHGg__thumb/img/fYifr9BL1JGCdKjMj1jmpru9780=/fit-in/200x150/filters:strip_icc()/pic6332251.jpg</thumbnail>
+        <image>https://cf.geekdo-images.com/9W0iZBy6ywBGo_7PG-WHGg__original/img/OMFNiQw1iEA3QTVqahEWXhId0ZM=/0x0/filters:format(jpeg)/pic6332251.jpg</image>
+        <name type="primary" sortindex="1" value="PDF Version (Hungarian)"/>
+        <yearpublished value="2019"/>
+        <format value="electronic"/>
+        <link type="language" id="2191" value="Hungarian"/>
+        <productcode value=""/>
+        <pagecount value="326"/>
+        <isbn10 value=""/>
+        <isbn13 value=""/>
+        <width value="6"/>
+        <height value="9"/>
+        <weight value="0"/>
+        <description>2015 Golden Geek d&amp;iacute;j: az &amp;eacute;v szerepj&amp;aacute;t&amp;eacute;ka&amp;#10;&amp;#10;2016 Indie RPG Award: az &amp;eacute;v j&amp;aacute;t&amp;eacute;ka, a legjobb term&amp;eacute;k, &amp;eacute;s a
+          legjobb t&amp;aacute;mogat&amp;aacute;s&amp;#10;&amp;#10;A K&amp;eacute;sek az &amp;eacute;jben a nemzetk&amp;ouml;zileg nagy siker&amp;#197;&amp;#177; Blades in the Dark asztali szerepj&amp;aacute;t&amp;eacute;k magyar v&amp;aacute;ltozata,
+          ami olyan mer&amp;eacute;sz bajkever&amp;#197;&amp;#145;kr&amp;#197;&amp;#145;l sz&amp;oacute;l, akik egy iparosodott fantasy v&amp;aacute;ros k&amp;iacute;s&amp;eacute;rtetj&amp;aacute;rta utc&amp;aacute;in pr&amp;oacute;b&amp;aacute;lnak
+          szerencs&amp;eacute;t. Vannak balh&amp;eacute;k, &amp;uuml;ld&amp;ouml;z&amp;eacute;sek, okkult rejt&amp;eacute;lyek, vesz&amp;eacute;lyes alkuk, v&amp;eacute;res &amp;ouml;sszecsap&amp;aacute;sok, &amp;eacute;s mindenekel&amp;#197;&amp;#145;tt
+          m&amp;eacute;rhetetlen gazdags&amp;aacute;g &amp;ndash; m&amp;aacute;r ha el&amp;eacute;g mer&amp;eacute;szek vagytok ahhoz, hogy megszerezz&amp;eacute;tek.&amp;#10;&amp;#10;Neked, &amp;eacute;s &amp;uacute;jonc band&amp;aacute;dnak
+          a vet&amp;eacute;lyt&amp;aacute;rs band&amp;aacute;k, er&amp;#197;&amp;#145;s nemesi csal&amp;aacute;dok, bossz&amp;uacute;szomjas szellemek, a K&amp;eacute;kkab&amp;aacute;tos v&amp;aacute;ros&amp;#197;&amp;#145;rs&amp;eacute;g,
+          &amp;eacute;s a bajkever&amp;#197;&amp;#145;itek saj&amp;aacute;t v&amp;aacute;gyainak szir&amp;eacute;n&amp;eacute;neke k&amp;ouml;zt kell boldogulotok. Vajon felemelkedtek az alvil&amp;aacute;g &amp;eacute;l&amp;eacute;re? Mire
+          vagytok hajland&amp;oacute;ak, hogy feljussatok a cs&amp;uacute;csra?&amp;#10;&amp;#10;- a kiad&amp;oacute; kivonat&amp;aacute;b&amp;oacute;l&amp;#10;&amp;#10;
+        </description>
+      </item>
+      <item type="rpgitemversion" id="486844">
+        <thumbnail>https://cf.geekdo-images.com/ebVYNsEsQTcKq84453Cchw__thumb/img/LBqdmg9G4uuiwjJ64qc_aDammi0=/fit-in/200x150/filters:strip_icc()/pic2442449.jpg</thumbnail>
+        <image>https://cf.geekdo-images.com/ebVYNsEsQTcKq84453Cchw__original/img/EVuk4WbEqJ3VZy_a30f2RKrRLgY=/0x0/filters:format(jpeg)/pic2442449.jpg</image>
+        <name type="primary" sortindex="1" value="POD Soft Cover"/>
+        <yearpublished value="2017"/>
+        <format value="softcover"/>
+        <link type="language" id="2184" value="English"/>
+        <productcode value=""/>
+        <pagecount value="330"/>
+        <isbn10 value=""/>
+        <isbn13 value="237-0009037337"/>
+        <width value="6"/>
+        <height value="9"/>
+        <weight value="0"/>
+        <description>Publisher Blurb&amp;#10;&amp;#10;&amp;quot;The streets of Duskwall are haunted. By vengeful ghosts and cruel demons. By the masked spirit wardens and their lightning-hooks. By sharp-eyed inspectors and their gossiping
+          crows. By the alluring hawkers of vice and pleasure. By thieves and killers and scoundrels like you &amp;mdash; the Blades in the Dark.&amp;#10;&amp;#10;The noble elite grow ever richer from the profits of their leviathan-hunting
+          fleets and electroplasm refineries. The Bluecoats of the constabulary crack skulls and line their pockets with graft. The powerful crime syndicates leech coin from every business, brothel, drug den, and gambling house. And then
+          there's your crew of scoundrels: all the way down at the bottom rung. Can you make it to the top? What are you willing to do to get there? There's only one way to find out...&amp;quot;&amp;#10;&amp;#10;Blades in the Dark is a
+          tabletop role-playing game about a gang of criminals seeking their fortunes on the haunted streets of Duskwall. There are heists, chases, occult mysteries, dangerous bargains, bloody skirmishes, and, above all, riches to be had if
+          you're bold enough.&amp;#10;&amp;#10;You play to find out if your fledgling crew can thrive amidst the threats of rival gangs, powerful noble families, malicious ghosts, the Bluecoats of the city watch, and the siren song of your
+          scoundrel&amp;rsquo;s own vices.&amp;#10;&amp;#10;
+        </description>
+      </item>
+      <item type="rpgitemversion" id="674501">
+        <thumbnail>https://cf.geekdo-images.com/ebVYNsEsQTcKq84453Cchw__thumb/img/LBqdmg9G4uuiwjJ64qc_aDammi0=/fit-in/200x150/filters:strip_icc()/pic2442449.jpg</thumbnail>
+        <image>https://cf.geekdo-images.com/ebVYNsEsQTcKq84453Cchw__original/img/EVuk4WbEqJ3VZy_a30f2RKrRLgY=/0x0/filters:format(jpeg)/pic2442449.jpg</image>
+        <name type="primary" sortindex="1" value="Roll20 VTT Version"/>
+        <yearpublished value="2022"/>
+        <format value="hardcover"/>
+        <link type="language" id="2184" value="English"/>
+        <productcode value=""/>
+        <pagecount value="327"/>
+        <isbn10 value=""/>
+        <isbn13 value=""/>
+        <width value="6"/>
+        <height value="9"/>
+        <weight value="0"/>
+        <description>The streets of Duskwall are haunted. By vengeful ghosts and cruel demons. By the masked spirit wardens and their lightning-hooks. By sharp-eyed inspectors and their gossiping crows. By the alluring hawkers of vice and
+          pleasure. By thieves and killers and scoundrels like you &amp;mdash; the Blades in the Dark.&amp;#10;&amp;#10;The noble elite grow ever richer from the profits of their leviathan-hunting fleets and electroplasm refineries. The
+          Bluecoats of the constabulary crack skulls and line their pockets with graft. The powerful crime syndicates leech coin from every business, brothel, drug den, and gambling house. And then there's your crew of scoundrels: all the
+          way down at the bottom rung. Can you make it to the top? What are you willing to do to get there? There's only one way to find out...&amp;quot;&amp;#10;&amp;#10;Blades in the Dark is a tabletop role-playing game about a gang of
+          criminals seeking their fortunes on the haunted streets of Duskwall. There are heists, chases, occult mysteries, dangerous bargains, bloody skirmishes, and, above all, riches to be had if you're bold enough.&amp;#10;&amp;#10;You
+          play to find out if your fledgling crew can thrive amidst the threats of rival gangs, powerful noble families, malicious ghosts, the Bluecoats of the city watch, and the siren song of your scoundrel&amp;rsquo;s own vices.&amp;#10;&amp;#10;-
+          from the publisher's blurb&amp;#10;&amp;#10;
+        </description>
+      </item>
+      <item type="rpgitemversion" id="621922">
+        <thumbnail>https://cf.geekdo-images.com/yVIIzWeWnkOQePkRXm5d3Q__thumb/img/0VAIhYvfeiRIeD6eG-7TzYA4L6Q=/fit-in/200x150/filters:strip_icc()/pic6903536.jpg</thumbnail>
+        <image>https://cf.geekdo-images.com/yVIIzWeWnkOQePkRXm5d3Q__original/img/ImC4HBQrtLP_5vUG9Hz_8GJP89M=/0x0/filters:format(jpeg)/pic6903536.jpg</image>
+        <name type="primary" sortindex="1" value="Spanish PDF Version"/>
+        <yearpublished value="2019"/>
+        <format value="electronic"/>
+        <link type="language" id="2203" value="Spanish"/>
+        <productcode value=""/>
+        <pagecount value="324"/>
+        <isbn10 value=""/>
+        <isbn13 value="978-8417379940"/>
+        <width value="6"/>
+        <height value="9"/>
+        <weight value="0"/>
+        <description>Publisher Blurb:&amp;#10;&amp;#10;Blades in the Dark es un juego de rol sobre bandas de audaces criminales que buscan la forma de prosperar en las opresivas calles de una ciudad industrial de fantas&amp;iacute;a. Aqu&amp;iacute;
+          hay robos, persecuciones, misterios ocultistas, tratos peligrosos, escaramuzas sangrientas y, sobre todo, las riquezas que puedas conseguir&amp;hellip; si eres lo suficientemente osado como para hacerte con ellas.&amp;#10;&amp;#10;Deber&amp;aacute;s
+          superar, junto a tu incipiente banda, las amenazas de tus rivales, de poderosas familias nobles, fantasmas vengativos, los casacas azules de la guardia de la ciudad y tus propios vicios criminales, que te incitan como el canto de
+          una sirena. &amp;iquest;Conseguir&amp;aacute;s ser alguien poderoso en el mundo criminal? &amp;iquest;Qu&amp;eacute; est&amp;aacute;s dispuesto a hacer para llegar a la cima?&amp;#10;&amp;#10;En este libro podr&amp;aacute;s
+          encontrar:&amp;#10;&amp;#10;&amp;#10; Reglas para crear un personaje criminal a partir de los siguientes arquetipos: el Acechador, la Ara&amp;ntilde;a, la M&amp;aacute;scara, el Sabueso, la Sanguijuela, el Sajador y el Susurro.&amp;#10;
+          Reglas para crear una banda a partir de diferentes tipos definidos, como Asesinos, Bravos, Buhoneros, Contrabandistas, Secta o Sombras.&amp;#10; Una mec&amp;aacute;nica b&amp;aacute;sica s&amp;oacute;lida que garantiza la
+          preeminencia de la narrativa: la actitud que adopta un personaje al realizar una acci&amp;oacute;n (desesperada, arriesgada o controlada) importa tanto como las puntuaciones que tiene en sus habilidades.&amp;#10; Una mec&amp;aacute;nica
+          &amp;aacute;gil para planificar operaciones criminales y quitarse de encima la pesadez habitual de hacer planes en la mesa de juego.&amp;#10; Reglas para experimentos alqu&amp;iacute;micos, artefactos y misteriosos poderes
+          ocultistas, incluyendo reglas para jugar con fantasmas y otros seres extra&amp;ntilde;os.&amp;#10; Una gu&amp;iacute;a de ambientaci&amp;oacute;n para la opresiva ciudad de Doskvol, con todos los mapas, facciones, PNJ,
+          maquinaciones y oportunidades que necesitas para jugar una partida de rol emocionante con gran libertad de movimientos.&amp;#10;&amp;#10;&amp;#10;
+        </description>
+      </item>
+      <item type="rpgitemversion" id="351730">
+        <thumbnail>https://cf.geekdo-images.com/j7Z9AOBuRUxway9kQPQ38w__thumb/img/4hPsb_6RIvbVt73ss4DAwbnD1rc=/fit-in/200x150/filters:strip_icc()/pic5356335.jpg</thumbnail>
+        <image>https://cf.geekdo-images.com/j7Z9AOBuRUxway9kQPQ38w__original/img/-7chbWA3ag0MW1dQVdphEMqs3BA=/0x0/filters:format(jpeg)/pic5356335.jpg</image>
+        <name type="primary" sortindex="1" value="Special Edition Hardcover version"/>
+        <yearpublished value="2017"/>
+        <format value="hardcover"/>
+        <link type="language" id="2184" value="English"/>
+        <productcode value="EHP0030"/>
+        <pagecount value="336"/>
+        <isbn10 value=""/>
+        <isbn13 value="978-1613171325"/>
+        <width value="6"/>
+        <height value="9"/>
+        <weight value="0"/>
+        <description>Available for order and ship in April 2017.&amp;#10;&amp;#10;</description>
+      </item>
+      <item type="rpgitemversion" id="538203">
+        <thumbnail>https://cf.geekdo-images.com/8k7O_D8_sLAQXF9YtDRXrQ__thumb/img/gvYnMIQCFYny43JB7zKkFPeNvr4=/fit-in/200x150/filters:strip_icc()/pic5810905.jpg</thumbnail>
+        <image>https://cf.geekdo-images.com/8k7O_D8_sLAQXF9YtDRXrQ__original/img/1rL2z9Jpo1fut1nXYx7ScvZ8Y5k=/0x0/filters:format(jpeg)/pic5810905.jpg</image>
+        <name type="primary" sortindex="1" value="Клинки во тьме PDF"/>
+        <yearpublished value="2020"/>
+        <format value="electronic"/>
+        <link type="language" id="2202" value="Russian"/>
+        <productcode value="ST1301"/>
+        <pagecount value="384"/>
+        <isbn10 value=""/>
+        <isbn13 value="978-5604270325"/>
+        <width value="6.5"/>
+        <height value="9.25"/>
+        <weight value="0"/>
+        <description>From publisher blurb:&amp;#10;&amp;#10;&amp;#208;&amp;#152;&amp;#208;&amp;#179;&amp;#209;&amp;#128;&amp;#208;&amp;#176; &amp;#208;&amp;#190; &amp;#208;&amp;#179;&amp;#209;&amp;#128;&amp;#209;&amp;#131;&amp;#208;&amp;#191;&amp;#208;&amp;#191;&amp;#208;&amp;#181;
+          &amp;#208;&amp;#180;&amp;#208;&amp;#181;&amp;#209;&amp;#128;&amp;#208;&amp;#183;&amp;#208;&amp;#186;&amp;#208;&amp;#184;&amp;#209;&amp;#133; &amp;#208;&amp;#176;&amp;#208;&amp;#178;&amp;#208;&amp;#176;&amp;#208;&amp;#189;&amp;#209;&amp;#130;&amp;#209;&amp;#142;&amp;#209;&amp;#128;&amp;#208;&amp;#184;&amp;#209;&amp;#129;&amp;#209;&amp;#130;&amp;#208;&amp;#190;&amp;#208;&amp;#178;,
+          &amp;#208;&amp;#190;&amp;#209;&amp;#129;&amp;#208;&amp;#189;&amp;#208;&amp;#190;&amp;#208;&amp;#178;&amp;#208;&amp;#176;&amp;#208;&amp;#178;&amp;#209;&amp;#136;&amp;#208;&amp;#184;&amp;#209;&amp;#133; &amp;#208;&amp;#191;&amp;#209;&amp;#128;&amp;#208;&amp;#181;&amp;#209;&amp;#129;&amp;#209;&amp;#130;&amp;#209;&amp;#131;&amp;#208;&amp;#191;&amp;#208;&amp;#189;&amp;#209;&amp;#131;&amp;#209;&amp;#142;
+          &amp;#208;&amp;#190;&amp;#209;&amp;#128;&amp;#208;&amp;#179;&amp;#208;&amp;#176;&amp;#208;&amp;#189;&amp;#208;&amp;#184;&amp;#208;&amp;#183;&amp;#208;&amp;#176;&amp;#209;&amp;#134;&amp;#208;&amp;#184;&amp;#209;&amp;#142; &amp;#208;&amp;#189;&amp;#208;&amp;#176;
+          &amp;#209;&amp;#130;&amp;#209;&amp;#145;&amp;#208;&amp;#188;&amp;#208;&amp;#189;&amp;#209;&amp;#139;&amp;#209;&amp;#133; &amp;#209;&amp;#131;&amp;#208;&amp;#187;&amp;#208;&amp;#184;&amp;#209;&amp;#134;&amp;#208;&amp;#176;&amp;#209;&amp;#133;
+          &amp;#208;&amp;#184;&amp;#208;&amp;#189;&amp;#208;&amp;#180;&amp;#209;&amp;#131;&amp;#209;&amp;#129;&amp;#209;&amp;#130;&amp;#209;&amp;#128;&amp;#208;&amp;#184;&amp;#208;&amp;#176;&amp;#208;&amp;#187;&amp;#209;&amp;#140;&amp;#208;&amp;#189;&amp;#208;&amp;#190;&amp;#208;&amp;#179;&amp;#208;&amp;#190;
+          &amp;#208;&amp;#184; &amp;#208;&amp;#178; &amp;#209;&amp;#130;&amp;#208;&amp;#190; &amp;#208;&amp;#182;&amp;#208;&amp;#181; &amp;#208;&amp;#178;&amp;#209;&amp;#128;&amp;#208;&amp;#181;&amp;#208;&amp;#188;&amp;#209;&amp;#143; &amp;#208;&amp;#188;&amp;#208;&amp;#184;&amp;#209;&amp;#129;&amp;#209;&amp;#130;&amp;#208;&amp;#184;&amp;#209;&amp;#135;&amp;#208;&amp;#181;&amp;#209;&amp;#129;&amp;#208;&amp;#186;&amp;#208;&amp;#190;&amp;#208;&amp;#179;&amp;#208;&amp;#190;
+          &amp;#208;&amp;#179;&amp;#208;&amp;#190;&amp;#209;&amp;#128;&amp;#208;&amp;#190;&amp;#208;&amp;#180;&amp;#208;&amp;#176;. &amp;#208;&amp;#146;&amp;#208;&amp;#191;&amp;#208;&amp;#181;&amp;#209;&amp;#128;&amp;#208;&amp;#181;&amp;#208;&amp;#180;&amp;#208;&amp;#184;
+          &amp;#208;&amp;#178;&amp;#208;&amp;#176;&amp;#209;&amp;#129; &amp;#208;&amp;#182;&amp;#208;&amp;#180;&amp;#209;&amp;#131;&amp;#209;&amp;#130; &amp;#208;&amp;#190;&amp;#208;&amp;#179;&amp;#209;&amp;#128;&amp;#208;&amp;#176;&amp;#208;&amp;#177;&amp;#208;&amp;#187;&amp;#208;&amp;#181;&amp;#208;&amp;#189;&amp;#208;&amp;#184;&amp;#209;&amp;#143;,
+          &amp;#208;&amp;#191;&amp;#208;&amp;#190;&amp;#208;&amp;#179;&amp;#208;&amp;#190;&amp;#208;&amp;#189;&amp;#208;&amp;#184;, &amp;#208;&amp;#191;&amp;#208;&amp;#190;&amp;#208;&amp;#177;&amp;#208;&amp;#181;&amp;#208;&amp;#179;&amp;#208;&amp;#184;,
+          &amp;#208;&amp;#190;&amp;#208;&amp;#191;&amp;#208;&amp;#176;&amp;#209;&amp;#129;&amp;#208;&amp;#189;&amp;#209;&amp;#139;&amp;#208;&amp;#181; &amp;#209;&amp;#129;&amp;#208;&amp;#180;&amp;#208;&amp;#181;&amp;#208;&amp;#187;&amp;#208;&amp;#186;&amp;#208;&amp;#184;,
+          &amp;#208;&amp;#186;&amp;#209;&amp;#128;&amp;#208;&amp;#190;&amp;#208;&amp;#178;&amp;#208;&amp;#176;&amp;#208;&amp;#178;&amp;#209;&amp;#139;&amp;#208;&amp;#181; &amp;#209;&amp;#129;&amp;#209;&amp;#133;&amp;#208;&amp;#178;&amp;#208;&amp;#176;&amp;#209;&amp;#130;&amp;#208;&amp;#186;&amp;#208;&amp;#184;,
+          &amp;#208;&amp;#176;&amp;#209;&amp;#132;&amp;#208;&amp;#181;&amp;#209;&amp;#128;&amp;#209;&amp;#139;, &amp;#208;&amp;#191;&amp;#209;&amp;#128;&amp;#208;&amp;#181;&amp;#208;&amp;#180;&amp;#208;&amp;#176;&amp;#209;&amp;#130;&amp;#208;&amp;#181;&amp;#208;&amp;#187;&amp;#209;&amp;#140;&amp;#209;&amp;#129;&amp;#209;&amp;#130;&amp;#208;&amp;#178;&amp;#208;&amp;#176;,
+          &amp;#208;&amp;#191;&amp;#208;&amp;#190;&amp;#208;&amp;#177;&amp;#208;&amp;#181;&amp;#208;&amp;#180;&amp;#209;&amp;#139; &amp;#208;&amp;#184; &amp;#209;&amp;#129;&amp;#208;&amp;#188;&amp;#208;&amp;#181;&amp;#209;&amp;#128;&amp;#209;&amp;#130;&amp;#208;&amp;#184;.&amp;#10;&amp;#10;&amp;#208;&amp;#152;&amp;#208;&amp;#179;&amp;#209;&amp;#128;&amp;#208;&amp;#176;
+          &amp;#208;&amp;#191;&amp;#208;&amp;#190;&amp;#208;&amp;#186;&amp;#208;&amp;#176;&amp;#208;&amp;#182;&amp;#208;&amp;#181;&amp;#209;&amp;#130;, &amp;#209;&amp;#129;&amp;#209;&amp;#131;&amp;#208;&amp;#188;&amp;#208;&amp;#181;&amp;#208;&amp;#181;&amp;#209;&amp;#130;
+          &amp;#208;&amp;#187;&amp;#208;&amp;#184; &amp;#208;&amp;#189;&amp;#208;&amp;#176;&amp;#209;&amp;#135;&amp;#208;&amp;#184;&amp;#208;&amp;#189;&amp;#208;&amp;#176;&amp;#209;&amp;#142;&amp;#209;&amp;#137;&amp;#208;&amp;#176;&amp;#209;&amp;#143;
+          &amp;#208;&amp;#186;&amp;#208;&amp;#190;&amp;#208;&amp;#188;&amp;#208;&amp;#176;&amp;#208;&amp;#189;&amp;#208;&amp;#180;&amp;#208;&amp;#176; &amp;#208;&amp;#178;&amp;#209;&amp;#139;&amp;#208;&amp;#182;&amp;#208;&amp;#184;&amp;#209;&amp;#130;&amp;#209;&amp;#140;
+          &amp;#209;&amp;#129;&amp;#209;&amp;#128;&amp;#208;&amp;#181;&amp;#208;&amp;#180;&amp;#208;&amp;#184; &amp;#208;&amp;#177;&amp;#208;&amp;#176;&amp;#208;&amp;#189;&amp;#208;&amp;#180;-&amp;#208;&amp;#186;&amp;#208;&amp;#190;&amp;#208;&amp;#189;&amp;#208;&amp;#186;&amp;#209;&amp;#131;&amp;#209;&amp;#128;&amp;#208;&amp;#181;&amp;#208;&amp;#189;&amp;#209;&amp;#130;&amp;#208;&amp;#190;&amp;#208;&amp;#178;,
+          &amp;#208;&amp;#188;&amp;#208;&amp;#190;&amp;#208;&amp;#179;&amp;#209;&amp;#131;&amp;#209;&amp;#137;&amp;#208;&amp;#181;&amp;#209;&amp;#129;&amp;#209;&amp;#130;&amp;#208;&amp;#178;&amp;#208;&amp;#181;&amp;#208;&amp;#189;&amp;#208;&amp;#189;&amp;#209;&amp;#139;&amp;#209;&amp;#133;
+          &amp;#208;&amp;#176;&amp;#209;&amp;#128;&amp;#208;&amp;#184;&amp;#209;&amp;#129;&amp;#209;&amp;#130;&amp;#208;&amp;#190;&amp;#208;&amp;#186;&amp;#209;&amp;#128;&amp;#208;&amp;#176;&amp;#209;&amp;#130;&amp;#208;&amp;#184;&amp;#209;&amp;#135;&amp;#208;&amp;#181;&amp;#209;&amp;#129;&amp;#208;&amp;#186;&amp;#208;&amp;#184;&amp;#209;&amp;#133;
+          &amp;#209;&amp;#129;&amp;#208;&amp;#181;&amp;#208;&amp;#188;&amp;#208;&amp;#181;&amp;#208;&amp;#185;, &amp;#208;&amp;#188;&amp;#209;&amp;#129;&amp;#209;&amp;#130;&amp;#208;&amp;#184;&amp;#209;&amp;#130;&amp;#208;&amp;#181;&amp;#208;&amp;#187;&amp;#209;&amp;#140;&amp;#208;&amp;#189;&amp;#209;&amp;#139;&amp;#209;&amp;#133;
+          &amp;#208;&amp;#191;&amp;#209;&amp;#128;&amp;#208;&amp;#184;&amp;#208;&amp;#183;&amp;#209;&amp;#128;&amp;#208;&amp;#176;&amp;#208;&amp;#186;&amp;#208;&amp;#190;&amp;#208;&amp;#178;, &amp;#208;&amp;#179;&amp;#208;&amp;#190;&amp;#209;&amp;#128;&amp;#208;&amp;#190;&amp;#208;&amp;#180;&amp;#209;&amp;#129;&amp;#208;&amp;#186;&amp;#208;&amp;#190;&amp;#208;&amp;#185;
+          &amp;#209;&amp;#129;&amp;#209;&amp;#130;&amp;#209;&amp;#128;&amp;#208;&amp;#176;&amp;#208;&amp;#182;&amp;#208;&amp;#184; &amp;#208;&amp;#184; &amp;#209;&amp;#129;&amp;#208;&amp;#190;&amp;#208;&amp;#177;&amp;#209;&amp;#129;&amp;#209;&amp;#130;&amp;#208;&amp;#178;&amp;#208;&amp;#181;&amp;#208;&amp;#189;&amp;#208;&amp;#189;&amp;#209;&amp;#139;&amp;#209;&amp;#133;
+          &amp;#208;&amp;#179;&amp;#209;&amp;#131;&amp;#208;&amp;#177;&amp;#208;&amp;#184;&amp;#209;&amp;#130;&amp;#208;&amp;#181;&amp;#208;&amp;#187;&amp;#209;&amp;#140;&amp;#208;&amp;#189;&amp;#209;&amp;#139;&amp;#209;&amp;#133; &amp;#209;&amp;#129;&amp;#209;&amp;#130;&amp;#209;&amp;#128;&amp;#208;&amp;#176;&amp;#209;&amp;#129;&amp;#209;&amp;#130;&amp;#208;&amp;#181;&amp;#208;&amp;#185;.&amp;#10;&amp;#10;
+        </description>
+      </item>
+    </versions>
+    <comments page="1" totalitems="75">
+      <comment username="ArcyKoza" rating="N/A" value="PDF"/>
+      <comment username="Asynja" rating="8" value="Softcover edition"/>
+      <comment username="Bifford" rating="7.5" value="Some bits are confusing (downtime especially) but it&apos;s a great system."/>
+      <comment username="Bifford" rating="7.5" value="SOFTCOVER version. Lovely game with some confusing bits."/>
+      <comment username="BioKeith" rating="9.5" value="Fantastic system. Really engaging. Lots of online support and ideas available."/>
+      <comment username="blakbuzzrd" rating="N/A" value="Forged in the Dark"/>
+      <comment username="Blammo" rating="N/A" value="Standard HC"/>
+      <comment username="blueknight98" rating="9.5"
+               value="This books is by far one of the best products I have picked up in recent times.  The writing is slick.  The tight rules blend elements of Fate and Apocalypse World.  I LOVE the use of flash backs scenes for planning details and the rationale behind it.  My main gripe is that I want this system to work in other game worlds.  And while feasible, I would like the system to require less tinkering to work in other fantasy worlds or even other locations within the same world."/>
+      <comment username="Blue_Sauerkraut" rating="9"
+               value="Great game with awesome mechanics. Everything just ties together very well for an awesome heist or other criminal undertaking. The world is also very interesting, and left open enough for a GM to put their unique spin on it. The only thing that&apos;s less than stellar is the xp rewards at the end of a score since theirs not always a ton driving these, though that could be a GM issue on my part.
+Hardcover book is nice and compact, with some decent drawings. Has more than enough to get you playing, and the author provides additional material on the game&apos;s website."/>
+      <comment username="brumcg" rating="7" value="Excellent game that does what it says it does on the tin.
+Don&apos;t expect a simple game; there are tons of moving parts."/>
+    </comments>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="179"/>
+        <average value="8.33827"/>
+        <bayesaverage value="7.70288"/>
+        <ranks>
+          <rank type="subtype" id="16" name="rpgitem" friendlyname="RPG Item Rank" value="27" bayesaverage="7.70288"/>
+        </ranks>
+        <stddev value="1.46012"/>
+        <median value="0"/>
+        <owned value="1011"/>
+        <trading value="10"/>
+        <wanting value="10"/>
+        <wishing value="112"/>
+        <numcomments value="75"/>
+        <numweights value="17"/>
+        <averageweight value="2.8824"/>
+      </ratings>
+    </statistics>
+    <marketplacelistings>
+      <listing>
+        <listdate value="Sun, 04 Apr 2021 22:13:49 +0000"/>
+        <price currency="CAD" value="25.00"/>
+        <condition value="verygood"/>
+        <notes value="signs of use on back cover."/>
+        <link href="https://boardgamegeek.com/market/product/2515758" title="marketlisting"/>
+      </listing>
+    </marketplacelistings>
+  </item>
+</items>
